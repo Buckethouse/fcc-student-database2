@@ -76,3 +76,7 @@ chmod +x student_info.sh
 ./student_info.sh
 ./student_info.sh
 ./student_info.sh
+git remote set-url origin https://github.com/buckethouse/fcc-student-database2
+git branch -M main
+git push -u origin main
+git add .
