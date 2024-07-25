@@ -32,3 +32,4 @@ git add .
 git commit -m "Initial Commit"
 git push
 echo hello SQL
+psql --username=freecodecamp --dbname=postgres
