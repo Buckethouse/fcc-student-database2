@@ -29,3 +29,6 @@ git remote set-url origin https://github.com/Buckethouse/fcc-student-database2.g
 git branch -M main
 git push -u origin main
 git add .
+git commit -m "Initial Commit"
+git push
+echo hello SQL
